@@ -1,4 +1,4 @@
-# 혀엉... 의사 어셈블리언어(혀엉... pseudo assembly language) by catnip1917
+# 혀엉... 의사 어셈블리언어(혀엉... pseudo assembly language)
 ## 피연산자(operand)
 * op1: 글자수; 일반적으로 스택에서 꺼낼 데이터 개수를 지정할 때 사용한다.
 * op2: 마침표 개수; 일반적으로 연산 결과를 저장할 스택의 번호를 지정할 때 사용한다.
